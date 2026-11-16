@@ -64,6 +64,8 @@ This project was developed using R and RStudio.
 
 The completed HTML report is available in the `Report/` folder.
 
+## Full Research Report
 
+[View the Full Research Report](https://natthanya-p.github.io/economic-convergence-asia/Report/economic_convergence_report.html)
 
 
